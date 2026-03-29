@@ -1,0 +1,1502 @@
+[
+  {
+    "task_id": "b7258ee05d75e6c50673a59914db412e",
+    "task_description": "Find the store location and hours of the closest Gamestop to zip code 90028 and set it as the home store on Gamestop.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "ade4c09ad3fdb1607209750924cd232f",
+    "task_description": "Compare available plans for the AeroAPI on Flightaware.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "fb7b4f784cfde003e2548fdf4e8d6b4f",
+    "task_description": "Open the page with an overview of the submission of releases on Discogs.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "824eb7bb0ef1ce40bfd49c12182d9428",
+    "task_description": "Get the lowest priced women's plus size one piece swimsuit in color black with a customer rating of at least 5 on Kohls.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "046138801a05ddf56ad94e8672942496",
+    "task_description": "Find discussions of the community and open one with the most replies on Flightaware.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "92a3d4236f167af4afdc08876a902ba6",
+    "task_description": "Find a 2022 Tesla Model 3 on CarMax.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "48c73f3f53e2611c4a1052457c1033db",
+    "task_description": "Get the report from the final environmental impact statement for the Jamaica Bus Depot expansion on new.mta.info.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "8f2611047de227a2ca8bda13f6e2e5fb",
+    "task_description": "Find the used 2012-2013 Honda Crosstour with the lowest mileage for under $25,000 near zip code 49102 on CarGurus.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "b320c68bffc1f3c7f2a8dc9d5478fb27",
+    "task_description": "Find a walkthrough for the game \"The Legend of Zelda: Breath of the Wild\" on ign.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "aa4b5cb7114fcc138ade82b4b9716d24",
+    "task_description": "Find an editor's choice review with a score of 10 in the boardgame category on ign.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "005be9dd91c95669d6ddde9ae667125c",
+    "task_description": "Find the weight of baggage allowance for economy class on Qatar Airways.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "323bd85e3559655d89e5496b951a25e8",
+    "task_description": "Tell me information about what identification I need to bring on my trip on Amtrak.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "123e8c2fc453f55fadd1d0b9aaf94df4",
+    "task_description": "Browse used Audi cars made before 2015 and sort by lowest price on KBB.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "56f8890a837c49f7df766b9c981646f3",
+    "task_description": "Show crazy credits for the movie \" Prometheus\" on IMDb.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "644a856c3897665e475e0dce50bf217d",
+    "task_description": "Find a pair of wireless headphones on Amazon with active noise canceling for $100 or less and add them to the cart.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "62f1626ce249c31098854f8b38bdd6cf",
+    "task_description": "Find Playstation 5 digital edition on gamestop.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "561693d6eec7bbfba3fefe9e4b26decb",
+    "task_description": "Browse Marriott Bonvoy credit cards on Marriott.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b7a9a6b5d451164c09bbd27b670bc2ae",
+    "task_description": "Show me the list of Men's Blazers, Black, Size M on Uniqlo.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "bfa2de159be6978acf2702be31a2eeeb",
+    "task_description": "Show me the options for a roundtrip leaving from Las Vegas on flexible dates on the interactive map on united.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4091bdd3fa64a5b0d912bc08eaf9c824",
+    "task_description": "Find the list of neighborhood maps for Brooklyn on new.mta.info.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "79f0bd7df6e685f30f20025cc6755c0a",
+    "task_description": "Find me the cheapest external Hard Drive for an Xbox One on GameStop.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "6ebde509dca8f15c0fa1bd74f071e8d6",
+    "task_description": "Search for a job in Miami, Florida, in Human Resources on target.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "34ccd15a8ea8fd3895af83f5ccf62369",
+    "task_description": "Find out what to do when I lose an item on a bus on us.megabus.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c698ff3fc0f6cbce39947c597ab5749b",
+    "task_description": "Browse the page with event planning tips on Eventbrite.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b6d10e9bd19b4009a02dea0e98f4e1ae",
+    "task_description": "Check the current standings for MLS on Fox Sports.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "d71be72aa25c3eab8eea47a0e60382e2",
+    "task_description": "Find technical specs for the latest Macbook Air on Apple.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0b51b4fa0295ae80ccd176ebdad6fff6",
+    "task_description": "Search for a red Toyota Corolla from model years 2018 to 2023 on CarMax.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "3f312ae3efc3c3e90ababe050dd4e7ae",
+    "task_description": "Find the current NFL standings for the AFC East division on NFL.com and go to the page on which team is in first place.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "95cad96f2e43f3c0d8efad1331c77c8c",
+    "task_description": "View the list of the Most Popular TV on rotten tomatoes.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "bf3b311cc8dce16d3de844f4b5875dfd",
+    "task_description": "Compare Apple watches and  learn more about the ultra version on apple.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "b64f938af842f6a1b4489d0e49a785a7",
+    "task_description": "Get the frozen vegan cheese pizza between 5 to 10 USD on Target.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "5e1b8254c123c80178cc28e0afdb14f0",
+    "task_description": "Find a help page about buying tickets on seatgeek.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "f27c0a7b8b0bb33d37698dff227fc8d7",
+    "task_description": "Browse used Mercedes-Benz cars from model years 2004 to 2012 on KBB and sort by highest price.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "8fdec8eeffd3491e6526cc78c028120b",
+    "task_description": "See Nissan and Honda cars for sale near Kentwood, MI 49512 on CarMax.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "7b182a5087347d494b48a29dbc0f1d3e",
+    "task_description": "Find a shelter or rescue group near zip code 90011.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "828c2d98616a9478d5864d847d5a1b28",
+    "task_description": "Browse the list of Civil Division forms.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "608c595eec271fa5dc03506923519994",
+    "task_description": "Calculate a FedEx Ground shipping rate for a 3-pound package from zip code 10019 to zip code 90028.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "a7a73c8fa75441fc76df9746c327bdd6",
+    "task_description": "Estimate the cost of a photographer in 07055 for a 4-hour project.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "cfafe3771369d1d261e9f7ecd44c296d",
+    "task_description": "Find the highest-rated dealer for Cadillac with a rating above 4 stars within 20 miles of zip 60606.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "bbbc243b4f18a7a897f0bc84e11d293f",
+    "task_description": "Find out how many assists Chris Paul has been averaging in the current season.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "816851ff92ff0219acf4364dcc2c4692",
+    "task_description": "Search for boys' infant pajamas below $40.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "8244409b2c82043f966cad05f9afe132",
+    "task_description": "Find the best Audiologist within 50 miles of New York, NY, with a rating of 4 and above.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "e7301bb694871429bf2eb36c3a72186c",
+    "task_description": "Find baby shoes priced under $20 with a 5-star rating.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "905cb53061c33aa2d77e485fe1fca516",
+    "task_description": "Browse dermatologists within 10 miles of zip code 10019 and filter by only those who accept Blue Medicare Advantage.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "fcf4952d2a1d80ea505c555c3c3b54e7",
+    "task_description": "Find the cheapest used  8-cylinder bmw made between 2005-2015 and priced from 25,000 to  50,000 dollars with mileage less than 50,000 miles or less.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "3c1ffc3f494e423b3c434c79e35da8f3",
+    "task_description": "Find 12 Monkeys community and view the latest posts mentioning James Cole.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "26a0e5c21c145dd8448aa92f35bec5ea",
+    "task_description": "Browse optometrists who offer telehealth services in Columbus, OH.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "070c907d34a4ce71dfdbea38f9c5d4d8",
+    "task_description": "Find a dentist who specializes in pediatric dentistry and is located near zip code 90210 (within 5-mile distance).",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "43a1ca251f11c6b0bdd0379766cc49e6",
+    "task_description": "Find a neurosurgeon who is over 50 years old and has an appointment available tomorrow.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b3f8bd9198d9d157e0848109563c4b23",
+    "task_description": "Find a permanent job in Logistics within 20 miles of New York, zip 11005, in the middle-income range for a high school diploma holder.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "20a460a8fe1971b84411c5b1e6ac4186",
+    "task_description": "Show theatre events for Las Vegas and select one.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "db1ffb5e60578597d1c3aa3c389ac7b1",
+    "task_description": "Search for smart TVs with a screen size of 55 to 65 inches and filter the results to show only those that have an LED display.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "7be8cd8dba885cddd9af5320f49bc41b",
+    "task_description": "Find roofing contractors within 5 miles of zip code 10002.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "239a29bde438fe44fe17fe1390ef1634",
+    "task_description": "Find me a gluten-free diet to lose weight for a pregnant woman.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9f1cba613830ca1c6a58f9498c06e679",
+    "task_description": "Find a premier real estate agent in St Augustine, FL.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "75146b7b67388b9244e0f21a1527c022",
+    "task_description": "Find a male senior boxer near zip code 90028.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "59b7b990b4828bc305ab0d7ed6071b55",
+    "task_description": "Get owner-financing homesite land for sale in New Mexico, Luna County,  listed in the last 30 days, and contact the cheapest per acre land seller.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "9c97bab9c2abfb90a426cbe9addae8d0",
+    "task_description": "Check the details of order 12345 with email 12345@gmail.com.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "871e7771cecb989972f138ecc373107b",
+    "task_description": "Find the weather for Vancouver, British Columbia for the next seven days.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b69eb4de621e9e265676daac44938f3f",
+    "task_description": "Find an adult husky near zip code 10019.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9bb63ad0e38d5691a618932a8b31c05a",
+    "task_description": "Look for reviews of a Nest Hello Video Doorbell and filter by 1-star ratings.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "8ae510355d978424f490798f900bfa2c",
+    "task_description": "Show me the shared rooms in any university in Melbourne that has a private bathroom wifi, and gas included in the bills.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4c186c6ed888d0c8d4cf4adb39443080",
+    "task_description": "Find a medium Devin Booker jersey and add it to the shopping cart.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "2fc51dd3febd447f0fdcdabca8d944ce",
+    "task_description": "Locate a self-storage unit near zip code 60538 that can fit about a dorm room full of items and is climate-controlled.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "eb323dc584156d0eb3a2b90bb8c4b791",
+    "task_description": "Find the latest 2 bed and 1.5+ bath apartment listing for rent in New York.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "87f4c5128e36cdb9366a138a7b61bb00",
+    "task_description": "View the speakers that are bluetooth and wireless and filter the results to only show models that are on sale and cost less than $50.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "354b4ddf048815f8fd4163d0d7e1aaa3",
+    "task_description": "Browse marketing jobs and filter by Bachelor's Degree education level.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "e4e097222d13a2560db6f6892612dab6",
+    "task_description": "Search for a young spayed male dog cared for by a private owner within 50 miles of zip 33109.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "f389398d2eeb29e5571e00439c57eb76",
+    "task_description": "Find the latest climate news.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "8ea6c3a2ea3f59150619935261a76d19",
+    "task_description": "Find a staffed FedEx location near zip code 10019 to return a package.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c1d6ea6f2196d25782cc3646ff3090db",
+    "task_description": "Create a list of drip coffee makers that are on sale and within $25-60 and have a black finish.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "2dd41b1d0e8f389d0683f4a4627abfe6",
+    "task_description": "Show houses for sale in Maryland with a maximum price of $60,000.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "f2097f92a10d42a842c14179f422311e",
+    "task_description": "Add a $50 Uber gift card to the cart.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "85b284c18d7e78c9b5a9e074e7aa3b98",
+    "task_description": "View the cheapest apartment available for students at the University of Leeds with bills that include WIFI and cleaning services.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "853afd530c72f4b00ffc32ae854efaf8",
+    "task_description": "Show me the wind flow map for Belo Horizonte.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c09721cc937d4dcfb391a0bc2c574b28",
+    "task_description": "Find the next available date for Albion Basin.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4c572a627b53b0f9a734ab37f21819b8",
+    "task_description": "Browse apartments with at least 2 bedrooms and 2 bathrooms and a max price of $4000 per month.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "301f267f421b93045874726183e8f722",
+    "task_description": "Find healthy savory vegan snack recipes which can be cooked within 5 minutes and contain a high level of protein.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "4f903626f632586fe4728d6664947bab",
+    "task_description": "Find press releases by the antitrust division in 2022.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "3ec0f6138d37fadcb989347a6088ec45",
+    "task_description": "Open the page to learn more about how to get accredited.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "2207bb4f21786690cfed20b37253fb8b",
+    "task_description": "Check the current wind speed in Calgary, Alberta.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9c04b71bb8db6cf8e743b2290cbc8797",
+    "task_description": "Find a UPS drop-off point near Miami Florida.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4e0f5561a76478da87995dee00b09572",
+    "task_description": "Show me the monthly weather forecast for Florida City.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "7562d9b4e4829a44245aafce2e1f62db",
+    "task_description": "Find the nearest location to zip code 54620 that offers size 4 P.O. Boxes.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "bd1e3770b7181f6fce9c35e18caa9785",
+    "task_description": "Browse service listings for a solar panel installer and hide duplicates.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "330cd04c773ac498f51afa4665461ec8",
+    "task_description": "Browse couches for sale, sort by cheapest, and search in titles only.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "ec78d3a635e417bc2a80d03ca93d7165",
+    "task_description": "What are the benefits and financial support a single person living in England, over the state pension age, unemployed, with no health conditions, or caring for someone with one, can get?",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "a0a18ca6a3529f3e97c771aadd42d3a0",
+    "task_description": "Add a men's T-shirt that is in large size with a stripe pattern, short sleeve, and under the Best Sellers group to the cart.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "82eb3bfedd78456a0230b389f4e7a938",
+    "task_description": "Open the XRP yearly chart.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "e7f6cca9a8875f98fee3b711ead3a444",
+    "task_description": "Find the comments made by the user Separate-Camp7202.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "75a1b5dcd2c28508a971d98d51fe5767",
+    "task_description": "Open the reviews of a recipe with beef sirloin.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c03ee2be3d73556ab789c0ad1cbd3451",
+    "task_description": "Find a dog groomer for nail trimming within 100 miles of zip 10005 and message the owner of the top one.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "05483c50cc9b04c8ac44c574758fb2bd",
+    "task_description": "Look for the best rated BBB accredited charity near 12023.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "a172a5d9ffaf5ef02bd550ec4fe24e6d",
+    "task_description": "Browse the natural products database.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "7e1047f4803237f319c004f7a7f6bccb",
+    "task_description": "Discover the trade-in value of my Intel 7th generation i3 Windows 10, HP laptop in fair condition,  which has 8 GB memory and can be powered on, proceed for the in-store trade-in.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "f2be37a9a60fbc25b6b11cf622d17352",
+    "task_description": "Find obedience trials in state of New York during the month of May.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "e24662008c3be5d56f986f232fcec447",
+    "task_description": "Find the stock price for WWE over the last month.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0170ca95038b05fa58d463fe627ac605",
+    "task_description": "Check if a visa is required to work in the UK for longer than 6 months in Healthcare as an American citizen.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b3a7da968de13bbdcaed12ffe4993df6",
+    "task_description": "Compare the breeds Afghan Hound, Akita and Azawakh.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "515f2e5811cfdd5e0e669e40f17886d8",
+    "task_description": "Search for a new internal M2 Samsung SSD drive between $25 and $200.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4d3157aab34b54e5f0c4b965dfe930f3",
+    "task_description": "Show me community posts about pregnancy fever from the past 30 days.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "e4e19e04286f644d747d8c5a79d17fac",
+    "task_description": "Find the Drug Interaction Report for Viagra and alcohol.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "cad62d2be0c53f08a416457486b3db23",
+    "task_description": "Search for adoptable dogs near 21122 zip code.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9ef1a8972f375db59c0e6329e11b7939",
+    "task_description": "Find Farms land in Wilkes County, NC with the lowest price.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "a11ecdff735b51372d536c866011af6f",
+    "task_description": "Explore courses related to Psychology.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "7fff82864f21ddeccf4104a220892824",
+    "task_description": "Find the lowest 27\"-32\" Samsung or LG computer monitors nearby which have 4k, IPS display.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "50d91eabde542906937ab4c5b6f8f23a",
+    "task_description": "Calculate Pregnancy Weight Gain for a 5-week pregnancy with a 169lb weight before pregnancy and a 175lb after pregnancy with a 5.6ft height.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "dcd26e662a616d373ddd339747c6ce5b",
+    "task_description": "Take a weight management quiz to find a motivating article for a non-exercising, mostly eating out and can't control portions and cravings, and who has a strong support system, enjoys traveling, loves family time and cooking.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "eb2db4b769c145dbe6ba4f74f3e0de98",
+    "task_description": "Find an energetic hairless dog with medium barking.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c0fa2c0e622971955cabf5bcf7b777e8",
+    "task_description": "Search for rentals in Corning, CA with a maximum price of $1500.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "ce616721ce9aeda69890fbccb29677a6",
+    "task_description": "Calculate the price to ship a large flat-rate box from 77449 to 77084 at the first available date and time.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9d09bc948462db032bac98968b11b008",
+    "task_description": "Find NHL events occurring in Boston.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "29526b17a32485742b5ab63507e99417",
+    "task_description": "Browse Humira dosage information.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "d7c955b47af68e01766fa86d0bee08a7",
+    "task_description": "Add Elevate at Chicago, IL, to favorites and show a virtual tour.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "9d090a15c214eb070d9caa8a034d03c1",
+    "task_description": "Find the lowest-priced Student housing near Liverpool International College which has been priced between 100 to 300 pounds and has a private bathroom.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "5916018d1cad999881018cac1216a692",
+    "task_description": "Find a personal trainer service at 10040 for a 25-year-old client aiming to build muscle.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0059adc6b12a3822305deb68929b2de8",
+    "task_description": "Find support services jobs in Bentonville, in the state of Arkansas.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "07bdc595306729a028ba06cc7451a80a",
+    "task_description": "Select a high speed train ticket with a departure time before 23:00  from Shanghai to Beijing.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "64b76158720a69e4a5c31a55d54928bf",
+    "task_description": "Compare two pescatarian diets for eating healthier.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "e3ab665e01e7632ce33ac1aeca14aff6",
+    "task_description": "Find the next available dates for Alley Creek Camp.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "2d5a7f95f951a26838289dfd629ae850",
+    "task_description": "Find a list of houses for sale in zip code 85747 with a private pool.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "26810ed9c123a62992e3eed31db3c5ee",
+    "task_description": "Show daily weather for New York City.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c181f903ec1107b850032c17cad88393",
+    "task_description": "Help me identify a white round pill with 123 written on it.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "ef289e34a2f59a707cb07e2a6229ff03",
+    "task_description": "Compare the Acura CL 2003 with the ILX 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "84f806c7fc15576673915f195efa72df",
+    "task_description": "Find a nationwide nearest animal shelter for birds around zip 10012.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "be9e7dca1222714571ef3d7d59d2a41c",
+    "task_description": "Find out the cold and flu forecast and today's air quality in Champaign, IL.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "11abb668c751dd56bb41f296a8bb3a13",
+    "task_description": "Find a store near zip 30010 that provides authorized Apple services for imacs and make this one my store.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "207e933d1bba815bcb58664b5d82c085",
+    "task_description": "Find Ohio City apartments with parking, a fitness center, and an elevator.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "29b7372d5a3884a2ba831af2d117af3c",
+    "task_description": "Browse the first top news of Microsoft stock on Google Finance.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "5c00e9561eae94789443f405525a5869",
+    "task_description": "Find the recommended dosage for Vivitrol.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "2532fd402d3c741b79894e6ff2269f53",
+    "task_description": "find electricians near 10203.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9829f3087ab1f9c8eba6b6dd2b831d25",
+    "task_description": "Play the latest video from NBA TV.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "783ce6a3499fa7cf25bc12f8f0ecbbbb",
+    "task_description": "Find Florida internship programs in the Mayo Clinic College of Medicine and Science.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "6db4a0e346976f2729ba9afcd3208941",
+    "task_description": "Look up tracking information for shipment #3023858502.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "1fc28d91d25ccd1c6ba268101326a654",
+    "task_description": "Find the 5-day price chart for Bitcoin.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "255bf27c43fd3f9254d6b81a5f36d3a9",
+    "task_description": "Look for the largest hunting land for auction in Kansas high plain region with mineral rights posted in the last seven days.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "a8b9edd598561d2de901864d5f40fe67",
+    "task_description": "Calculate the shipping cost for 4 pound package from Texas to New York.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "a6f0434ce6aff5f9b03681241b03ad82",
+    "task_description": "Find the closing stock price for Tesla on March 17, 2023.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "415bf9da6f3db3a735ecbba3b0c76c15",
+    "task_description": "Find the nearest vet within 50 miles of zip 75228.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "8103786e0e5976ebf961bd062d5f39cd",
+    "task_description": "Find possible causes for the symptoms of chest pain which is sharp which is accompanied by anxiety.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "92160852a6bbbc165cee4e14ab0b1d59",
+    "task_description": "Find the shipping cost of a Common medium-sized box in flat-rate shipping and compare it with other parcel services.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "502e864440283214e0180645015f568b",
+    "task_description": "Check permit availability for a group of 4 in Brooks Camp, Katmai National Park on May 22.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "7680a920359cb1a508fbddb001b98167",
+    "task_description": "See the prediction about the girl child's height, whose current height at seven years is 4 feet and whose weight is 55 lbs, her mother is 5 feet 2, and her father is 5 feet 8.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "07ec4a12cba8090e2dc524d558ac7675",
+    "task_description": "Check drug interaction for melatonin and Folate Forte.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "987bad7c6d4726d64232a8a1c3386888",
+    "task_description": "Find the seller info and seller's notes about the used car model 2011 BMW 135 with a max price of $30000.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "15be05973fba714e490cd9c884e4f072",
+    "task_description": "Find the procedure to get the license for Athletic Trainer.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "3adeea7627f4343069f38adae40f73d0",
+    "task_description": "Within 25 Miles of 96817, find a nursing home that accepts medicare.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c94551d2b18f9ad0ab31b0bd98ca42e3",
+    "task_description": "Find cats available for adoption within 10 miles of zip code 94587, Young or adult-age cats, sorted by Oldest Addition.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "4e801ba102dfaf22c7cf7a126b107609",
+    "task_description": "Find Linux platform software developers in 10080 who master the Python language and Java language with web interface project type.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "39c388cdc468688c8139cc2bb5157c13",
+    "task_description": "Calculate the estimated car loan payment amount for an average credit-rated person for a 15,000-dollar car with a down payment of 2000 dollars and loan tenure of 48 months in zip 65215 and shop for the lowest-priced car.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "c8d7f2aa7eb5dd074c48c9f76f8659ad",
+    "task_description": "Show Teen Driver Safety program information.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "fd787623166785d84093565bf945fd24",
+    "task_description": "Check the interaction between Novolin N and Novolin R.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c3307a70bb12ebf56cc9ec926b368f15",
+    "task_description": "Find the interactions between Eulexin and hepatic dysfunction.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "9586827ad04ee2362f4f0076bf0f0468",
+    "task_description": "Find the side effects of taking Montelukast.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "34992feb69eb8e788faa06868b365c49",
+    "task_description": "Submit a request for vehicle registration renewal with title number X123456 and last 4 digits of VIN is 1234.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "47b93b9e649eadeb8d96a6e3df715c2d",
+    "task_description": "Show me Diagnoses & Treatment for Female infertility.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "3443e9c3151fef19a3c3a45eb2c13640",
+    "task_description": "Search for the ovulation calculator and enter Mar 1 as the first date of the period and calculate the date of ovulation and pregnancy test day.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "6b5be1764692d1dc8f17dc4375b2daa8",
+    "task_description": "Show me historical data for EUR/USD.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "16200f51d63f0a47a58fa17acd49e368",
+    "task_description": "Find a recipe that includes eggplant and mushrooms.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c2153fc053112e89c2f103869c4d6890",
+    "task_description": "Find a house cleaning service in 10001 on a weekly basis.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "5e4e89c9b6fdaee7a41aca5601b82e04",
+    "task_description": "Identify a pill with a pink color and oval shape with 894 5 number on it.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "60cbbbd58eb9d28b053aef945f464228",
+    "task_description": "Look up if the phone number 555555555 is a scam.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "8f80e64e44e1fada018997b2fe869683",
+    "task_description": "What are the top posts of all time on Reddit?",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "65c4030f22fb6eb101acfee4825f1318",
+    "task_description": "Find a female MD Cardiologist in Jacksonville, Florida.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "6ca20f1da01edeb49a7a42c816d8c6fe",
+    "task_description": "Find the Eligibility to get the child benefit and How it works and how to claim",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "2e4e21cf1449c6894b17d571c47b77ea",
+    "task_description": "Find an English bulldog near zip code 90028 that was cared for by a private owner.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "1df24ec81137386d6476bcf343a79012",
+    "task_description": "Search for NordicTrack with the lowest price.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4639a54f3ab549864fd8d60b7398b1e1",
+    "task_description": "Find a white female kitten within 35 miles of zip 77494.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9af05e392cf3f5a8ff17aa764ba5bda6",
+    "task_description": "Get a quote from C and above-rated solar energy equipment company within 10 miles of Miami, Florida.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "627f7a18d85f29a687234f1ade4585c2",
+    "task_description": "Find the current league leader in total blocked shots.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0b838cd54f826c59c71f600c56b89a11",
+    "task_description": "Find all the locations for the second-best-rated used car dealer less than 5 miles from New York.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "5dec0e6620849459f29e6465982c597e",
+    "task_description": "Search for 33 to 49inch Qled gaming monitor with a 240hz refresh rate that is within $1000 to $2000.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "52efbab520734ef9bf7c09ba0f62cdc8",
+    "task_description": "Find the app for iOS.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b1ce968a361e1088ce8d2ade6c2c9af0",
+    "task_description": "Find young cats in Seattle and show off the newest additions.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "23204728192da9f73197a613d9681c18",
+    "task_description": "What are the Symptoms and causes of fever?",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "a69d2934fe54fef165490a5a2d95bf38",
+    "task_description": "Show me recipes for pancakes with wheat and without beetroot.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "e9f4dfc67e0e6aa37f05f7cc5aa7428c",
+    "task_description": "Browse pediatricians near zip code 90028 who specialize in Internal Medicine and have a rating of at least 4 stars.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "2218042362d8fae73756eb309848c2b2",
+    "task_description": "Compare Audi A7 with Audi A6, both made in 2023, and hide similarities.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "ba2a469af584f16da93ce6a7430cf7e5",
+    "task_description": "Search for a beginner\u2019s course in computer science that includes advertisement skills.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "26784156ae9859a0dd6c5920eb106f91",
+    "task_description": "calculate and search rent for a $6000 monthly income with 30% rent budget near 90012 area.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "47e314cc452c540524ffb7cf520285a3",
+    "task_description": "Find the park that offers the cheapest paddling permits.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "271b36efd4346721b5542488ff997042",
+    "task_description": "Browse 8K Samsung TVs that are open box.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "6b2cfae0ef25c73d1224b6ab74cb8b63",
+    "task_description": "Find Devin Booker's highest-scoring points per game playoff run.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0a54069a0ef542e571d1fee7f39c93d5",
+    "task_description": "Browse senior spayed/neutered dogs near zip code 90028.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4e3f6a538cc1f7321cfc50260db9545d",
+    "task_description": "Look up the current temperature for zip code 10019.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "f00e7accfb4a5e09680bdb326e6274ad",
+    "task_description": "Check the hourly forecast for Boston.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "6174e5ddd40cfbdc33ee1502f40bac39",
+    "task_description": "Find a day-use park that offers horseback riding near Nashville.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "547f5729c59d5d12a457a3ebb74c31c6",
+    "task_description": "Search for 3 bedroom condos with 2 bathrooms within $1500- $2500 range in NYC.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "0b2623e9fa5cea997f76490bcbc5220f",
+    "task_description": "Find a list of shorthaired dogs available for adoption within 100 miles of zip code 94587 that are good with kids and cats, and have been on Petfinder for over 30 days.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "3ae28b3c440efe87dc700480b78ac608",
+    "task_description": "Find the closest 5-star rated dentist to zip code 98011.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0632e496d37badee0350dad358f047c5",
+    "task_description": "Browse recipes for gluten-free chocolate chip cookies that can be made without nuts.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "aafd1fddea1558466ac6133934d35156",
+    "task_description": "Find a Single-Family House for Rent in Houston, TX with 1 bed.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "246d654fab7c31d9651007e39e75f74f",
+    "task_description": "Open the most helpful 5-star reviews of Alpine Ridge.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "690d7b4a285fdb1e9dabf973bf46ae4d",
+    "task_description": "Browse iPhone X for sale that is in good condition, has a max price of 400, and searches in titles only.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c43a7dccf5c44f7b45a821e712dd1970",
+    "task_description": "Take a newsletter subscription with my email id (buckeye.foobar@gmail.com) for Allergies and asthma, Anxiety and depression, nutrition, diabetes, breast cancer, and migraine with email id.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "d5c34bf39eb6096ae5d439325cde4d32",
+    "task_description": "Find a DMV center in Richmond.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "180ed2ec377ef3a4af9035a21522091a",
+    "task_description": "Find the way to give a gift to UM-Dearborn.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c521933dad9c0ef9f1dfa2f38b8e4405",
+    "task_description": "See the monthly forecast for Atlanta, GA.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "9b5dfe54a1c14c5c6336bae7374c3bb5",
+    "task_description": "Find a UPS Access Point near SPRING, TX and services provided by them.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c073ac1bcf40f84c599affc97edbc396",
+    "task_description": "Search for the cheapest apartment in Detroit for a student.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "73d08420706ae205a9c5be28b6d4e80f",
+    "task_description": "Show me the rules and cancellation for Alley Spring.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0a0fa834ce41b5297c6474293383759d",
+    "task_description": "What are the onboard activities of the highest-rated Regent Seven Seas Cruise ship based on Costco member reviews?",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "a13e4231a3d6a7000c622c56448d97ba",
+    "task_description": "Find an Airbnb in Cleveland for three nights. The check-in date is the day after tomorrow. We have 2 adults, 2 kids, and 1 pet. The budget is $100 to $300 per night. Essential amenities include free parking, a washer, and a gym.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "bb518416a786fdb9b9bbf0c78515595e",
+    "task_description": "Browse the class schedule of graduate-level computer science courses.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b99c02965196d51e80ac7539e33f335b",
+    "task_description": "Please find graduate-level computer science courses scheduled on Tuesdays starting time from 2:00 to 6:00 PM in the Fall 2023 semester.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "27fa3ac20745d3d35e89fae157f63069",
+    "task_description": "Browse the class schedule of graduate-level chemistry courses on Monday afternoons in the winter of 2023.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b4aa7315e31dfcdc52baf7771be260c9",
+    "task_description": "Find the HGX H100 driver for Ubuntu 22.04 on AMD64 CPU.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "442a450e696a96085257db6297891a4d",
+    "task_description": "Using a calculator to determine how much I can have in my 401(k) account at retirement, if I work from age 22 to 65, with an annual rate of return of 3%, annual employee contributions of $8,000, and annual employer contributions of $8,000.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "9ed3827266b3b804f485859c3d00401e",
+    "task_description": "If I'm 30, plan to retire at 65, and can save $300/month, with a 3% annual return, 13% current tax rate, and 24% retirement tax rate, show the comparison chart between Traditional and Roth IRA.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "c801d1c951f59297f526bab84fa86c6e",
+    "task_description": "Browse the latest negative reviews from players with over 100 hours of playtime for the game that won the 2023 VR Game of the Year Award.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "7c09c2c7c87cf6bb1138701eb54284ea",
+    "task_description": "Find the comments for the most popular news in the past month under the Quantum Physics topic.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "afcebfed28bea091d58f49ea6cb8194b",
+    "task_description": "Find the most reviewed gluten-free multivitamins from CVS Health Brand under $15.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "64345c365f544375357c7b67917f08a0",
+    "task_description": "Look for the newest refrigerator that is 34-36 inches wide, priced between $1,000 and $2,000, and has a customer review rating of 4 stars or higher.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "ab6ee3b83aab6cd283320f5e01003cff",
+    "task_description": "Find the tech specs of the MacBook Pro 16-inch introduced in November 2023.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "33bd2cdcea4fcc42a09a8a1e4e5841c6",
+    "task_description": "Add a 5-piece Tenders Combo to my bag with Sweet Corn as the side, Sweet Tea as the drink, and both Honey BBQ and Honey Mustard sauces. Select the store closest to Zip code 10001 for pick-up tomorrow at 12:00 PM.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "47186fac8e7c7277af01144644eb4e0b",
+    "task_description": "What is the ownership cost of the first car in the list \"top buys 2025\"?",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "fa9adb815b85d259f943d81874a052e5",
+    "task_description": "Browse a user homepage that reposted the top song from the Top 50 Rock chart.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b922508886ded315c9835457a6eb43ea",
+    "task_description": "Browse tenured/tenure-track faculty positions in Computer Sciences & Technology in California.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "5d542a7ec1fa142ba73cc87d970caf39",
+    "task_description": "Find the most cited publication at the 2022 CVPR main conference.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "864244b6969e0f8733b0eb1ca06cd51f",
+    "task_description": "Find the race time for who wins the first place in the last race of the 2023 Formula 1 (F1).",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "01abae9608f2d8752a83e08f136f720c",
+    "task_description": "Show me the code for the company that is the top mover in the Cboe Europe Technology Sector Index (BEPTEC) as of the latest market close.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "da8f3823a827c7d3a492f383808e7912",
+    "task_description": "Find and open the earliest press release.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "8689af4d33ce00bf2cdd8987d3bbfd86",
+    "task_description": "Add the cheapest certified refurbished iPad Air with 256GB of storage in any shade of blue to my bag.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "78f397336b6fd1cbba0127db7a8cd502",
+    "task_description": "Browse the upcoming SuperBike events taking place in Italy.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "3dca7cbe7d086619d837ff9f5312cebc",
+    "task_description": "Can you show me products under the category path 'Automotive' -> 'Car Jack', with an additional filter for the color pink?",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "b962927dfe03bf2274a54381127ed433",
+    "task_description": "Find the best-selling vinyl record by an artist from New York City in the classical music genre.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "78baf9dbe7c3532f7d7ef4cc22a7f065",
+    "task_description": "Find the most popular digital trends report in the Finance & Insurance industry within the region of China.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "c7c07ec10c668625a21ba64165d719bb",
+    "task_description": "Find the total monthly price for four prepaid unlimited lines without autopay discounts.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "512fd4deab099b8dc0dcfc0ec48a3c63",
+    "task_description": "Identify the open issue with the most comments in the first trending open-source repository this week.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "d9d8b7d84a3f8d057e368254fe8d65e2",
+    "task_description": "Find the first commit submitted by NielsRogge to the official repository of the SAM2 model.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "157f4a79d55e8fa3fd55ba772ba40fbc",
+    "task_description": "Find the most popular blue Lilo & Stitch toys.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "62c8d970b3d13891f355911e5a8f4030",
+    "task_description": "Find the top game listed in the Steam Deck's top-played list over the past year. Then, browse reviews for that game from players who have played over 100 hours and primarily use a Steam Deck.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "11857213ca01510f12813740afd59918",
+    "task_description": "Add the most top-selling Adidas men's basketball shoe in red, size 10 to my cart.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "47bfe8a7e0e4e7efc837287b407fbe90",
+    "task_description": "Compare the first and second most popular smartphones manufactured by Xiaomi and show the comparison chart.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "bb314cb80f0f8489135cbf59074d11e2",
+    "task_description": "Open the page for the first Best Paper Award video recording of talks from ICLR 2016.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "1aeca99e6a60b0e3aefb3ef212bdce79",
+    "task_description": "Find full-time legal occupation jobs in San Diego County with a minimum salary of $4,000+ per month.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "d730f4ff450da1bd60a836163736ef6a",
+    "task_description": "Find the best-selling GORE-TEX men's hiking shoe priced between $100.00 and $199.99 with a rating of 4 stars or higher, and show its most helpful comment.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "fe33894188d20d7469f37a9fd855e7ff",
+    "task_description": "Find me Python 3.9 packages on PyPI that are designed for the Web Environment, licensed under MIT, have a stable production status, and are intended for developers.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "71f8de1834599fba443f40dbbfab8edd",
+    "task_description": "Search for papers related to reinforcement learning under the topics of computer science and mathematics on arxiv, with recent submission dates between September 2024 and January 2025.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "c8c1ff115879b3afd14280beb1559b13",
+    "task_description": "Find the latest Doraemon video in MP4 format that is over 20 minutes long and has a medium file size.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "d4fb78b7e74508cd3b33f01cf9200997",
+    "task_description": "Show the figure comparing Occupational Fatalities Trends between Ohio and New York.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0e42c3a73f2aece1f854e0ba55b7c8b0",
+    "task_description": "Find a gas station in Manhattan, NY with a rating above 4.0, and sort the user reviews by the lowest rating.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "96afb3c51146b0c2a9c55f039a5ea6d6",
+    "task_description": "Find the most frequent word that rhymes with \"thought\" and has three syllables.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "59912927c1fddee6ded8a49986896bc2",
+    "task_description": "Look for the most useful reviews of the highest-rated anti-reflective TVs with screen sizes from 55\" to 64\" and prices ranging from $300 to $1500.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "e43cbc8a0bf9e999884928d11006f894",
+    "task_description": "Browse the list of things to do in Miami that have a rating of 9+ (wonderful), last between 1 to 4 hours per session, cost under $100 per person, and are available for booking between next Monday and next Friday.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "1b867afecf072cb877ebfa4069263746",
+    "task_description": "Display the figure comparing unemployment trends among women in Illinois and Michigan.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c3a333968fc3c43d7f2688f425a0d633",
+    "task_description": "Find the cheapest certified pre-owned Porsche 911 with a model year of 2019 or newer, within a 200-mile radius of ZIP code 97007.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "bb5d90e6f2fbc0ae146f7c1998c2b4a1",
+    "task_description": "Find the most viewed TED talk on the topic of robots that lasts between 12 and 18 minutes.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "c577a14301a725e09ccd269a3e0b271e",
+    "task_description": "Return the page for the highest-rated red wine from Oregon under $40 that pairs well with either mushrooms or veal.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "c6c9dc6079677cef594cec2fa6b16602",
+    "task_description": "Add the cheapest black sofa with at least three seats, a leather finish, and at least four stars to my cart.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "c39d6c245f8243993e707d54d2f4acec",
+    "task_description": "Browse the final skin in the list for the champion Ahri.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "b2f4fde2fce122a93c7b578086cb0585",
+    "task_description": "Find the cheapest hotel + flight + car package from New York to San Francisco, departing tomorrow and returning on the fourth day from departure, for two adults and a six-year-old child. The package should be one room with free breakfast and spa access.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "d02d236836924919f35f2438d9ed2374",
+    "task_description": "Browse the top 250 movies and find one movie that is available on AMC+.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "3621b099326c7aebd2e2dac6be3b52d1",
+    "task_description": "Open the profile page of the leader of the Nvidia Learning and Perception Lab.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "f27b393bbd2082f92b566270c4b74fe6",
+    "task_description": "Find a large van for sale from the year 2024 or newer with up to 10,000 miles.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "ba01ea557b73f864c35ebba0dd6f3cb2",
+    "task_description": "Find the top-rated hotel in Manhattan, NY, suitable for 4 guests, and identify the fastest public transportation option from the hotel to LGA airport.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "7abdceee212151f187ee1a1744c57606",
+    "task_description": "Can you show me the page with the filing fee for a self-petitioned I-140 application?",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "0e5536aaad9d3462b06cf725e6ed535a",
+    "task_description": "Show me the page with average wait times for U.S. citizens arriving at Raleigh-Durham International Airport on 2025-03-12.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "bc2ce7f206045dd2d322e5695a947219",
+    "task_description": "Estimate the federal income tax I would owe on $158,500 of taxable income in ZIP code 97007, filing as single.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "7e6993f2c5cd72c44809024f0bc85dc1",
+    "task_description": "Create a meme with a frog as the background and leave the only text with \"Enjoy your life\".",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "a48e2f1ee8d87eaeea56fe5e730427e6",
+    "task_description": "Pass the first trending chess puzzle.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "dd44c665cec1e9c929a4c5f074e7844a",
+    "task_description": "Find parking near the San Francisco Museum of Modern Art from June 18, 1:00 PM to 5:00 PM. I'm driving a Ford F-150 and need a garage that allows in-and-out privileges. If there are multiple options, show me the details of the one with the lowest price.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "99daaed9a83c266341d28aa40067d376",
+    "task_description": "Find the most popular board game on the 'The Hotness' list that has a rating above 7.5 and is suitable for 2 players.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "7072d09436972a5d5fe7476e3e9f1559",
+    "task_description": "Show me the comparison of the first two personal credit cards that do not charge foreign transaction fees.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "662ae0f2d3ac851dbcdd245f908277e3",
+    "task_description": "What is the second stop among the best stops along the road trip from Yellowstone National Park to Las Vegas?",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "2c20d87a046fadcb6ff07ee877bfbf37",
+    "task_description": "Open the form 8843 for tax year 2022.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "753f372c189d3b306623cb0c65b50320",
+    "task_description": "Compare the U.S. ETP Odd Lot Rate (%) between Quartile 1 and Quartile 4, viewing quartiles by price, and display the chart with a logarithmic scale on the vertical axis.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "733f1d8bf79d5bc2240c5357f928ffff",
+    "task_description": "Find the cheapest travel deal or discount to Thailand that lasts more than 10 days, departs in next month, and show the total price.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "f05e87c5b92d9869e08806103c1c15a1",
+    "task_description": "Find all startup companies from the 2022 and 2023 Y Combinator batches that are based in France and currently have job openings.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "3ef64f34eae59c9fac7ee9a4f18b4a0c",
+    "task_description": "Find and open an animal learning course on YouTube Kids for my 6-year-old without login in. As a parent born in 1992, I would prefer not to enable search.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "f158345f8489e0d1d91e28768c39bca1",
+    "task_description": "Estimate the total cost (with basic support) of using 5 million input tokens and 5 million output tokens each for GPT-4o and GPT-4o Mini, both deployed in the US/EU Data Zones under Standard (On-Demand) in the East US region.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "1ab384fb3a791edfb410213cc6b82151",
+    "task_description": "Show me the result of a proton emission decay for a Beryllium nucleus with 6 protons and 4 neutrons in the simulation.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "1223b07536a87e0170ff87cbbebd1d3c",
+    "task_description": "Complete a multiplication quiz on https://www.coolmath4kids.com/, covering multiplication facts for 11-12. The quiz should consist of 10 questions, with unlimited time allowed for each. The goal is to achieve a perfect score of 10 out of 10.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "461ab9b0c7b20ac5f912704480979c65",
+    "task_description": "Find the NYSE Rule 605 Market Center Files data for July 2024.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "a96fca87a17d792644e736d1d10d3cbe",
+    "task_description": "View the pricing plan for 'Business'. Specifically, we have 100 users. We need a 1PB storage quota and a 50 TB transfer quota.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "2c8ef01a92c71ba9ef2e59bb17eea2b3",
+    "task_description": "Add an Apple Mac studio with the largest absolute discount to my cart.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "3084bc225219fcb73dc1cb0f97276c1c",
+    "task_description": "Get quotes for a package weighing 10 lbs with dimensions of 2 inches in length, width, and height, being shipped from Long Beach, 90802 to Portland, 97201.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "949dc965a6c23a95663b3bc2ca2c3a8a",
+    "task_description": "Find UA or AA flights from London to New York that arrive between 8:00 PM and 11:00 PM on FlightAware.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "636b07af4dd97c1793733db1fd1b90b8",
+    "task_description": "Filter handbags to evening bags that are blue, and polyester and cost less than $100.",
+    "difficulty": "hard"
+  },
+  {
+    "task_id": "38203be65401943aea2179c4c680059a",
+    "task_description": "Check the status of bus S92 for any disruptions on new.mta.info.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "cf757a775fa1224acfc7998489e199a8",
+    "task_description": "Find a flight from Dublin to anywhere under $100 tomorrow on Ryanair.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "d8e2a81fa621ce4737e5ea85671b630e",
+    "task_description": "Search for regular weekday jobs around 14810 that I can start within a week or two.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "63d6866fc000fcb1f153e07604bd1395",
+    "task_description": "What are the Nearby Attractions from the cheapest attraction in Hong Kong?",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "199be0b54a436daee74247971fc684ee",
+    "task_description": "Add a Macy's E-Gift Card worth $50 from Shak to my cart, with the birthday wish message \"Happy birthday, wish you many more years to come\", addressed to christene (christenson@gmail.com).",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "c00437fd76a7a83b57f3dc4e5dbc41f8",
+    "task_description": "Check the most recent full-time medical health and safety jobs, requiring 1-3 years of industry experience available in the US.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "fc53ddd3421411a41c1020a3fdc84ec4",
+    "task_description": "I want to purchase an open-box Samsung Galaxy S25 Plus in excellent condition and trade in a gray Galaxy S20 5G (Verizon), with a perfect screen, in good condition. How much would it cost?",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "9d46ccb915eff39ee1ae1e7328f5f20d",
+    "task_description": "Get a quote for the fastest shipping available for 5 lbs with dimensions of 4 inches in length, width, and height from New York, NY 10001, USA to Truckee, California 96162, USA.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "d1970c16271496cbbe166ecbecc0a1d8",
+    "task_description": "I'm 25 and located in Texas. Shop for 2020 made dry red wine made in United States priced between 15-20 dollars and add 5 bottles to the cart.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "7211af65d266402f99499053924262e9",
+    "task_description": "View the most recent job posting for a full-time pharmacy position in the US.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "4464a8421f8bc8786524a499258dfad3",
+    "task_description": "Check the specifications of the best-selling HP FHD laptop with 16 GB RAM and core i7 running on Windows 11.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "f707d765bca668830745d20807d7bee6",
+    "task_description": "Show me the list of young female English Spot rabbits available for adoption in Chicago, IL, within 50 miles.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "d392e154c1c6ffbb26e2331c3afafc67",
+    "task_description": "Add a $100 Best Buy gift card for a birthday to my cart.",
+    "difficulty": "easy"
+  },
+  {
+    "task_id": "a5c87cc1c94a090c9a8dc2c8b6a125d0",
+    "task_description": "Find the SO2 air quality over the past hour for Maine North, County Cork, Ireland.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "367d843c640637745e8fafa741cca13b",
+    "task_description": "Find a condo for rent in Houston, TX, with a monthly rent of no more than 30% of an income of $8000. The condo should have a minimum area of 600 square feet, and the move-in date is the 1st of next month.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "84ef883a37af638c3bcf7561f28ce80a",
+    "task_description": "Find the cheapest used hatchback car listing in Madison which has black interiors with a heated seat option and premium sound system.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "d9a8689393effeed75ea0866e44e1def",
+    "task_description": "Find the address and phone of the Office of the Inspector General (OIG).",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "1bc154377120ec15b18dbabdba49c741",
+    "task_description": "Book 4 tickets in the upper for any Kevin Hart show in New York in the next three months and view ticket prices with estimated fees.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "28e7574e7bd6d14f36d2988a5ef2bd23",
+    "task_description": "Get a part-time job within 5 miles of Moscow, Idaho in the accommodation and food services industry, as a chef, and show jobs for corporate only.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "1c3b747ae12ccee895745f82e3f2ef8a",
+    "task_description": "Identify the ongoing competition that offers the highest prize and find the code that received the most votes in that competition.",
+    "difficulty": "medium"
+  },
+  {
+    "task_id": "d1807551297ac60ecaaabbd2a2ed301a",
+    "task_description": "Find the No.1 children's hospital in the California that specializes in Neonatology.",
+    "difficulty": "easy"
+  }
+]
