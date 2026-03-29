@@ -1,0 +1,44 @@
+{
+  "name": "browser-cli",
+  "version": "1.0.0",
+  "description": "AI-friendly CLI to control the browser via AIPex extension",
+  "type": "module",
+  "bin": {
+    "browser-cli": "./dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.13",
+    "@types/node": "^22.0.0",
+    "tsup": "^8.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.3.0"
+  },
+  "keywords": [
+    "browser",
+    "cli",
+    "aipex",
+    "ai-agent",
+    "automation",
+    "browser-control"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AIPexStudio/aipex-whole.git",
+    "directory": "new-aipex/browser-cli"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
