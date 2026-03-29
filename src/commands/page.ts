@@ -81,8 +81,17 @@ addCommand("page", {
   name: "metadata",
   description: "Get page metadata (title, description, keywords, etc.)",
   toolName: "get_page_metadata",
-  examples: ["browser-cli page metadata"],
-  mapArgs: () => ({}),
+  options: [
+    {
+      flag: "tab",
+      type: "number",
+      description: "Tab ID to query (defaults to active tab)",
+    },
+  ],
+  examples: ["browser-cli page metadata", "browser-cli page metadata --tab 123"],
+  mapArgs: (_positional, options) => ({
+    ...(options.tab != null ? { tabId: options.tab as number } : {}),
+  }),
 });
 
 addCommand("page", {

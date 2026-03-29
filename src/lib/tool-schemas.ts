@@ -364,8 +364,8 @@ PREREQUISITE: If you choose coordinate actions, you MUST first call capture_scre
   {
     name: "get_page_metadata",
     description:
-      "Get page metadata including title, description, keywords, etc.",
-    inputSchema: { type: "object", properties: {}, required: [] },
+      "Get page metadata including title, description, keywords, etc. Accepts optional tabId.",
+    inputSchema: { type: "object", properties: { tabId: { type: "number", description: "Optional tab ID" } }, required: [] },
   },
   {
     name: "scroll_to_element",
