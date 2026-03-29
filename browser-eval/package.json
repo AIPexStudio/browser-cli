@@ -1,0 +1,24 @@
+{
+  "name": "browser-eval",
+  "version": "1.0.0",
+  "description": "Multi-agent eval system for browser-cli using Online-Mind2Web benchmark",
+  "type": "module",
+  "scripts": {
+    "eval": "tsx src/cli.ts",
+    "build": "tsup src/cli.ts --format esm --dts"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.8.1",
+    "openai": "^5.0.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsup": "^8.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
