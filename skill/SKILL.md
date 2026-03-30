@@ -43,20 +43,62 @@ Use this skill when the user wants to:
 
 ---
 
-## Prerequisites
+## Installation
+
+### Prerequisites
 
 - **Node.js >= 18** installed
-- **AIPex Chrome extension** installed and connected to the daemon
-- `browser-cli` installed globally: `npm install -g browser-cli`
+- **AIPex Chrome extension** installed ([Chrome Web Store](https://chromewebstore.google.com/detail/aipex-ai-browser-assistan/felgkdoipflhmfodmolmjkgfpcopobfh) or developer build)
 
-### First-time Setup
+### Install browser-cli
 
-After installing, connect the AIPex extension to the daemon:
+```bash
+npm install -g browser-cli
+```
 
-1. Open Chrome → AIPex extension icon → **Options**
-2. Set WebSocket URL to `ws://localhost:9223/extension`
-3. Click **Connect**
-4. Verify: `browser-cli status`
+Verify the installation:
+
+```bash
+browser-cli --version
+```
+
+### Connect AIPex Extension
+
+After installing, connect the AIPex Chrome extension to the daemon:
+
+1. Open Chrome → click the **AIPex** extension icon → **Options**
+2. Find the **WebSocket Connection** section
+3. Set WebSocket URL to `ws://localhost:9223/extension`
+4. Click **Connect**
+
+Verify the connection:
+
+```bash
+browser-cli status
+```
+
+A successful response:
+
+```json
+{
+  "ok": true,
+  "data": {
+    "status": "ok",
+    "extensionConnected": true,
+    "bridgeClients": 0
+  }
+}
+```
+
+### Quick Start
+
+```bash
+browser-cli tab list                         # List all open tabs
+browser-cli tab new https://example.com      # Open a tab
+browser-cli page search "button*" --tab 123  # Find elements
+browser-cli interact click btn-42 --tab 123  # Interact
+browser-cli page screenshot                  # Verify visually
+```
 
 ---
 
